@@ -1,5 +1,5 @@
 # Processing data from CeNCOOS to National Marine Sanctuary Condition Reports
-(NOTE: This code was created by Marine Lebrec for CeNCOOS)
+(NOTE: This code was created by Marine Lebrec for CeNCOOS)<p>
 This project converts ecological monitoring data stored in **Darwin Core (DwC) CSV format** into a **standardized JSON format** that can be more readily used by Sanctuary staff in their **Web Condition Reports (CRs)**.  <br><br>
 The example used in this repository uses data from the Multi-Agency Rocky Intertidal Network (MARINe) which has been processed into Darwin Core and published to GBIF/OBIS, and the CalOOS Data Portal. <br><br>
 The workflow takes user inputs about the data (e.g. the dataset name, indicator species), cleans and aggregates data, and outputs JSONs that align with reporting needs such as **mean values, standard deviations, and station counts across years**.
