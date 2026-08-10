@@ -1,0 +1,20 @@
+{"Sanctuary" :"MBNMS",
+"stationNames" : 
+[
+    "Scott Creek",
+    "Sandhill Bluff",
+    "Terrace Point",
+    "Hopkins",
+    "Stillwater",
+    "Point Lobos",
+    "Andrew Molera",
+    "Mill Creek",
+    "Point Sierra Nevada"
+],
+"sourceDataName":"MARINe Photoplots",
+"sourceDataURL":"doi:10.6085/AA/marine_ltm.4.14",
+"metadataCreatorName":"Marine Lebrec",
+"metadataCreatorEmail":"mlebrec@mbari.org"
+}
+
+

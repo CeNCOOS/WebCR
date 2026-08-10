@@ -1,0 +1,64 @@
+{"Sanctuary" :"CINMS",
+"stationNames" : 
+[
+    "Cat Rock",
+    "Middle West",
+    "S Frenchys Cove",
+    "Fraser Cove",
+    "Trailer",
+    "Orizaba Cove",
+    "Willows Anchorage",
+    "Prisoners Harbor",
+    "Scorpion Rock",
+    "Fossil Reef",
+    "NW Talcott",
+    "Johnsons Lee",
+    "Ford Point",
+    "East Point",
+    "Harris Point",
+    "Cuyler Harbor",
+    "Otter Harbor",
+    "Crook Point",
+    "Landing Cove",
+    "Sea Lion Rookery"
+],
+"islandStations" : {
+    "Anacapa" : 
+        [
+        "Cat Rock",
+        "Middle West",
+        "S Frenchys Cove"
+        ],
+    "Santa Cruz" :
+        [
+        "Fraser Cove",
+        "Trailer",
+        "Orizaba Cove",
+        "Willows Anchorage",
+        "Prisoners Harbor",
+        "Scorpion Rock"
+        ],
+    "Santa Rosa" :
+        [
+        "Fossil Reef",
+        "NW Talcott",
+        "Johnsons Lee",
+        "Ford Point",
+        "East Point"
+        ],
+    "San Miguel" :
+        [
+        "Harris Point",
+        "Cuyler Harbor",
+        "Otter Harbor",
+        "Crook Point"
+        ], 
+    "Santa Barbara" :
+        [
+        "Landing Cove",
+        "Sea Lion Rookery"
+        ]
+    },
+"metadataCreatorName":"Marine Lebrec",
+"metadataCreatorEmail":"mlebrec@mbari.org"
+}
